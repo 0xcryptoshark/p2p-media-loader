@@ -89,3 +89,5 @@ Only one media track is delivered over P2P. If video and audio tracks in HLS or 
 | WebRTC Data Channels    | +      | +       | +            | +                    | +                   | -     | -     |
 | Media Source Extensions | +      | +       | +            | +                    | -                   | +     | +     |
 | **P2P Media Loader**    | **+**  | **+**   | **+**        | **+**                | **-**               | **-** | **-** |
+
+## Other
